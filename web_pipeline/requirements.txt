@@ -1,0 +1,10 @@
+resiliparse
+datatrove
+fasttext
+nltk
+tqdm
+bs4
+wget
+pyahocorasick
+fasteners
+tldextract
