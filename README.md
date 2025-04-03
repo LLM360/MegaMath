@@ -2,7 +2,7 @@
 <h1><img src="./assets/logo.png" alt="Logo" width="30" style="vertical-align: middle;"/>  MegaMath: An Open Math Pre-trainng Dataset with 370B Tokens.</h1>
 
 [![Dataset](https://img.shields.io/badge/Datasets-4d8cd8?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/LLM360/MegaMath)
-[![Tech Report](https://img.shields.io/badge/Tech%20Report-5f16a8?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.xxxxx)
+[![Tech Report](https://img.shields.io/badge/Tech%20Report-5f16a8?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.02807)
 </div>
 
 ## About MegaMath
@@ -72,7 +72,7 @@ If you use our dataset or find our work useful, please cite
 @article{zhou2025megamath,
   title     = {MegaMath: Pushing the Limits of Open Math Corpora},
   author    = {Zhou, Fan and Wang, Zengzhi and Ranjan, Nikhil and Cheng, Zhoujun and Tang, Liping and He, Guowei and Liu, Zhengzhong and Xing, Eric P.},
-  journal   = {arXiv preprint arXiv:2504.xxxxx},
+  journal   = {arXiv preprint arXiv:2504.02807},
   year      = {2025},
   note      = {Preprint}
 }
